@@ -5,9 +5,9 @@ I take only very minimal credit for this; it leverages Jason Antman's statusXML 
 
 Usage: pass the required URL parameters (detailed in the code near the bottom):
 
-s: search string
-srt: sort column (from status.dat); c=state, d=service description, h=host name
-srto: sort order, a or d
+* s: search string
+* srt: sort column (from status.dat); c=state, d=service description, h=host name
+* srto: sort order, a or d
 
 Add a call to sidebar.html or whereever you think it seems appropriate.
 
